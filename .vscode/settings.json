@@ -1,0 +1,5 @@
+{
+  "css.lint.unknownAtRules": "ignore",
+  "javascript.suggest.autoImports": true,
+  "typescript.suggest.autoImports": true
+}
